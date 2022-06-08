@@ -1,0 +1,18 @@
+#mail.password=<< Existing password/certificate removed on export >>
+#
+#Thu Jun 02 02:38:13 UTC 2022
+Type=MAIL
+mail.user=jimmyhorn.tw@gmail.com
+mail.bpm.send.disabled=true
+mail.smtp.ssl.enable=true
+mail.smtp.from=jimmyhorn.tw@gmail.com
+mail.transport.protocol=smtp
+mail.smtp.starttls.required=true
+Authentication=BasicAuthentication
+mail.smtp.host=smtp.gmail.com
+Name=sap_process_automation_mail
+mail.smtp.starttls.enable=true
+ProxyType=Internet
+tokenServiceURLType=Dedicated
+mail.smtp.port=465
+mail.smtp.auth=true
