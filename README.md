@@ -26,19 +26,19 @@ My project has successfully created include that the features:
 
 Key Process Flows
 
-- The bot reads input criteria from the excel template
+- The bot reads input criteria from the excel template.
 
-- Automate the creation of a Material Master
+- Automate the creation of a Material Master.
 
-- Write the status back into the excel template
+- Write the status back into the excel template.
 
 Business Benefits
 
-- Reduce manual effort an employee can concentrate on the more important tasks
+- Reduce manual effort an employee can concentrate on the more important tasks.
 
-- Ensure fast creation of the document
+- Ensure fast creation of the document.
 
-- Eliminate the human error
+- Eliminate the human error.
 
 此開發項目已成功運行及發佈，包括以下功能： 
 - 權限受限用戶登錄。 
@@ -55,6 +55,16 @@ Business Benefits
 - 自動釋放及關閉 SAP GUI\Excel 應用程序。 
 - 物料成功創建的標誌標記。 
 - 物料成功創建的文件備份。
+
+關鍵流程 
+- 機器人從 Excel 模板中讀取輸入標準化。
+- 自動創建物料主數據。
+- 將狀態寫回 Excel 模板。
+
+業務優勢 
+- 減少人工工作，員工可以專注於更重要的任務。
+- 確保快速創建文檔。
+- 消除人工錯誤。
 
 SAP BTP Cockpit URL:
 https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/db0aad23-1562-45a7-b02a-744f909d0b9c
