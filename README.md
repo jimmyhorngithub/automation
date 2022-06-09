@@ -16,8 +16,8 @@ My project has successfully created include that the features:
 - Only read .XLSX file.
 - SAP GUI scripting simulation.
 - SAP GUI session control.
-- Remove null and undefined value.
-- Replace specific value.
+- Remove null and undefined values.
+- Replace specific values.
 - Strat\end running time recording.
 - Customerize alert handle.
 - Auto release SAP GUI\Excel application.
