@@ -18,7 +18,7 @@ My project has successfully created include that the features:
 - Remove null and undefined value.
 - Replace specific value.
 - Strat\end running time recording.
-- Customer alert handle.
+- Customerize alert handle.
 
 SAP BTP Cockpit URL:
 https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/db0aad23-1562-45a7-b02a-744f909d0b9c
