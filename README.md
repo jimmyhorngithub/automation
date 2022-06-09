@@ -14,8 +14,8 @@ My project has successfully created include that the features:
 - Foreach Excel row reading.
 - Foreach input variable writing.
 - Only read .XLSX file.
-- SAP GUI scripting.
-- SAP session control.
+- SAP GUI scripting simulation.
+- SAP GUI session control.
 - Remove null and undefined value.
 - Replace specific value.
 - Strat\end running time recording.
@@ -30,8 +30,8 @@ My project has successfully created include that the features:
 - Excel 行迴圈式讀取。 
 - 輸入變量迴圈式寫入。 
 - 僅讀取 .XLSX 文件。 
-- SAP GUI 腳本。 
-- SAP 會話控制。 
+- SAP GUI 腳本模擬。 
+- SAP GUI 會話控制。 
 - 刪除空值和未定義值。 
 - 替換特定的輸入值。 
 - 開始\結束運行時間記錄。 
