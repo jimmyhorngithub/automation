@@ -24,7 +24,7 @@ My project has successfully created include that the features:
 - Successfully created flags tagging.
 - Successfully created files backup.
 
-此開發項目已成功發佈，包括以下功能： 
+此開發項目已成功運行及發佈，包括以下功能： 
 - 權限受限用戶登錄。 
 - 目錄\檔案存在檢測。 
 - Excel 行迴圈式讀取。 
