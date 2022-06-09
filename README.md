@@ -24,6 +24,22 @@ My project has successfully created include that the features:
 - Successfully created flags tagging.
 - Successfully created files backup.
 
+Key Process Flows
+
+- The bot reads input criteria from the excel template
+
+- Automate the creation of a Material Master
+
+- Write the status back into the excel template
+
+Business Benefits
+
+- Reduce manual effort an employee can concentrate on the more important tasks
+
+- Ensure fast creation of the document
+
+- Eliminate the human error
+
 此開發項目已成功運行及發佈，包括以下功能： 
 - 權限受限用戶登錄。 
 - 目錄\檔案存在檢測。 
