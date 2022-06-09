@@ -1,5 +1,5 @@
 # automation
-{RPA Scenerio}
+{RPA Scenerio - Big Bite}
 
 Create materials process in SAP ERP.
 
