@@ -11,3 +11,6 @@ My project has successfully created include that
 - SAP session control.
 - Customer Javascript.
 - Customer alert handle.
+
+SAP BTP Cockpit URL:
+https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/db0aad23-1562-45a7-b02a-744f909d0b9c
