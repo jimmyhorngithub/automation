@@ -13,7 +13,7 @@ My project has successfully created include that
 - SAP session control.
 - Remove null and undefined value.
 - Replace specific value.
-- Record strat\end running time.
+- Strat\end running time recording.
 - Customer alert handle.
 
 
