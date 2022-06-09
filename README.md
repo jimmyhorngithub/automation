@@ -68,3 +68,8 @@ Business Benefits
 
 SAP BTP Cockpit URL:
 https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/db0aad23-1562-45a7-b02a-744f909d0b9c
+
+Please feel free contact me, if you have interested in this hands-on RPA article.
+歡迎隨時來信諮詢，如果對於此RPA實作內容有任何興趣的話，謝謝。
+
+{Email} jimmyhorn.tw@gmail.com
