@@ -9,6 +9,7 @@ Environment: Cloud Studio\Desktop Agent
 
 ##[7.0.0] Final Released on July, 2022.
 My project has successfully created include that the features:
+- Rights limited user log in.
 - Folder\files exist detecting.
 - Foreach Excel row reading.
 - Foreach input variable writing.
@@ -19,6 +20,7 @@ My project has successfully created include that the features:
 - Replace specific value.
 - Strat\end running time recording.
 - Customerize alert handle.
+- Auto release SAP GUI\Excel application.
 
 SAP BTP Cockpit URL:
 https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/db0aad23-1562-45a7-b02a-744f909d0b9c
