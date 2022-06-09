@@ -23,6 +23,7 @@ My project has successfully created include that the features:
 - Auto release SAP GUI\Excel application.
 - Successfully created flags tagging.
 - Successfully created files backup.
+- Intergrated with Line\WeChet notify message.
 
 Key Process Flows
 
@@ -55,6 +56,7 @@ Business Benefits
 - 自動釋放及關閉 SAP GUI\Excel 應用程序。 
 - 物料成功創建的標誌標記。 
 - 物料成功創建的文件備份。
+- 與 Line\WeChet 通知訊息整合。
 
 關鍵流程 
 - 機器人從 Excel 模板中讀取輸入標準化。
