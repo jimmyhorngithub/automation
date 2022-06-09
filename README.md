@@ -21,8 +21,8 @@ My project has successfully created include that the features:
 - Strat\end running time recording.
 - Customerize alert handle.
 - Auto release SAP GUI\Excel application.
-- Successfully created flags tagging.
-- Successfully created files backup.
+- Successfully materials created flags tagging.
+- Successfully materials created files backup.
 
 此開發項目已成功發佈，包括以下功能： 
 - 權限受限用戶登錄。 
