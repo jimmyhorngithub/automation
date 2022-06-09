@@ -8,7 +8,7 @@ Application: Excel\SAP GUI
 Environment: Cloud Studio\Desktop Agent
 
 ##[7.0.0] Final Released on July, 2022.
-My project has successfully created include that the feature:
+My project has successfully created include that the features:
 - Folder\files exist detecting.
 - Foreach Excel reading.
 - Foreach input variable writing.
