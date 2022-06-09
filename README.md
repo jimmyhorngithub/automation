@@ -1,14 +1,13 @@
 # automation
 RPA Scenerio
 
+Create materials process in SAP ERP.
+
 Application: Excel\SAP GUI
 
 Environment: Cloud Studio
 
-Create materials process in SAP ERP.
-
 ##[7.0.0] Final Released on July, 2022
-
 My project has successfully created include that 
 - Folder\files exist detecting.
 - Foreach Excel reading.
