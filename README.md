@@ -7,7 +7,7 @@ Application: Excel\SAP GUI
 
 Environment: Cloud Studio\Desktop Agent
 
-##[7.0.0] Final Released on July, 2022.
+## Big Bite [7.0.0] Final Released on July, 2022.
 My project has successfully created include that the features:
 - Rights limited user log in.
 - Folder\files exist detecting.
@@ -41,7 +41,7 @@ Business Benefits
 
 - Eliminate the human error.
 
-此開發項目已成功運行及發佈，包括以下功能： 
+此大亨堡開發項目已成功運行及發佈，包括以下功能： 
 - 權限受限用戶登錄。 
 - 目錄\檔案存在檢測。 
 - Excel 行迴圈式讀取。 
