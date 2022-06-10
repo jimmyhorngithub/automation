@@ -5,7 +5,7 @@ Create materials process in SAP ERP.
 
 Application: Excel\SAP GUI
 
-Environment: Cloud Studio\Desktop Agent
+Environment: Cloud Studio\Desktop Agent 2.0.23.85
 
 ## Big Bite [7.0.0] Final Released on July, 2022.
 My project has successfully created include that the features:
