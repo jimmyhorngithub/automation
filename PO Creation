@@ -1,0 +1,4 @@
+[Purpose]
+Read and Validate Excel files to get PO creation details.
+Log in to SAP application and create PO.
+Fetch PO number after creating and update back to the input excel sheet under RPA comments column.
