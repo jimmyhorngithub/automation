@@ -9,7 +9,7 @@ Core SDK 1.27.60
 
 Environment: Cloud Studio\Desktop Agent 2.0.27.27
 
-## Big Bite [7.0.0] Final Released on July, 2022.
+## Big Bite [2.0.2.2] Final Released on July, 2022.
 My project has successfully created include that the features:
 - Rights limited user log in.
 - Folder\files exist detecting.
