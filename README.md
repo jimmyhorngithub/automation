@@ -5,7 +5,7 @@ Create materials process in SAP ERP.
 
 Application: Excel\SAP GUI
 
-CORE SDK 1.27.60
+Core SDK 1.27.60
 
 Environment: Cloud Studio\Desktop Agent 2.0.27.27
 
