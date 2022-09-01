@@ -11,7 +11,7 @@ Environment: Cloud Studio\Desktop Agent 2.0.27.45
 
 ## Big Bite [2.0.2.2] Final Released on July, 2022.
 My project has successfully created include that the features:
-- Rights limited user log in.
+- Authorization limited user log in.
 - Folder\Files exist detecting.
 - Multiple\Single foreach Excel row reading.
 - Foreach input variable writing.
