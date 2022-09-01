@@ -16,6 +16,7 @@ My project has successfully created include that the features:
 - Multiple\Single foreach Excel row reading.
 - Foreach input variable writing.
 - Only read .XLSX file.
+- Customize data column and type.
 - SAP GUI scripting simulation.
 - SAP GUI session control.
 - Remove null and undefined values.
@@ -48,7 +49,8 @@ Business Benefits
 - 目錄\檔案存在檢測。 
 - 多個\單一Excel 列迴圈式讀取。 
 - 輸入變量迴圈式寫入。 
-- 僅讀取 .XLSX 文件。 
+- 僅讀取 .XLSX 文件。
+- 自定義數據列和類型。
 - SAP GUI 腳本模擬。 
 - SAP GUI 會話控制。 
 - 刪除空值和未定義值。 
