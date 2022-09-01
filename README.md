@@ -20,7 +20,7 @@ My project has successfully created include that the features:
 - SAP GUI session control.
 - Remove null and undefined values.
 - Replace specific values.
-- Strat\end running time recording.
+- Strat\End running time recording.
 - Customerize alert handle.
 - Auto release SAP GUI\Excel application.
 - Successfully created flags tagging.
