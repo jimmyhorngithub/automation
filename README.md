@@ -23,6 +23,7 @@ My project has successfully created include that the features:
 - Replace specific values.
 - Strat\End running time recording.
 - Customerize alert handle.
+- Multilevel exception-handling support.
 - Auto release SAP GUI\Excel application.
 - Successfully created flags tagging.
 - Successfully created files backup.
@@ -56,7 +57,8 @@ Business Benefits
 - 刪除空值和未定義值。 
 - 替換特定的輸入值。 
 - 開始\結束運行時間記錄。 
-- 定制警報句柄。 
+- 定制警報句柄。
+- 多級異常處理支持。
 - 自動釋放及關閉 SAP GUI\Excel 應用程序。 
 - 物料成功創建的標誌標記。 
 - 物料成功創建的文件備份。
