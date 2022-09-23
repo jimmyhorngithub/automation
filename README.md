@@ -7,7 +7,7 @@ Application: Excel\SAP GUI
 
 Core SDK 1.29.42
 
-Environment: Cloud Studio\Desktop Agent 2.0.29.51
+Environment: Cloud Studio\Desktop Agent 2.0.29.39
 
 ## Big Bite [2.0.2.2] Final Released on July, 2022.
 My project has successfully created include that the features:
