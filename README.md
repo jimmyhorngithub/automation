@@ -3,7 +3,7 @@
 
 Create materials process in SAP ERP.
 
-Download techpack PDF document from Customer Web site.
+Download the PDF documents from Customer Web site.
 
 Application: Excel\Web\SAP GUI
 
