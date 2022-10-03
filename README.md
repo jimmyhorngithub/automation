@@ -2,8 +2,9 @@
 {RPA Scenerio - Big Bite}
 
 Create materials process in SAP ERP.
+Download techpack PDF document from Customer Web site.
 
-Application: Excel\SAP GUI
+Application: Excel\Web\SAP GUI
 
 Core SDK 1.29.42
 
@@ -28,12 +29,16 @@ My project has successfully created include that the features:
 - Successfully created flags tagging.
 - Successfully created files backup.
 - Intergrated with Line\WeChat notify message.
+- Web iframe elements scraping.
+- Automation session timeout controling.
 
 Key Process Flows
 
 - The bot reads input criteria from the excel template.
 
 - Automate the creation of a Material Master.
+
+- Automate the download of the PDF documents.
 
 - Write the status back into the excel template.
 
@@ -63,10 +68,14 @@ Business Benefits
 - 物料成功創建的標誌標記。 
 - 物料成功創建的文件備份。
 - 與 Line\WeChat 通知訊息整合。
+- Web iframe 元素抓取。
+- 自動化會話超時控制。
+
 
 關鍵流程 
 - 機器人從 Excel 模板中讀取輸入標準化。
 - 自動創建物料主數據。
+- 自動下載 PDF 文檔。
 - 將狀態寫回 Excel 模板。
 
 業務優勢 
