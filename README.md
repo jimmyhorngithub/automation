@@ -7,7 +7,7 @@ Download the PDF documents from customer Web site.
 
 Application: Excel\Web\SAP GUI
 
-Core SDK 1.29.42
+Core SDK 1.30.49
 
 Environment: Cloud Studio\Desktop Agent 2.0.30.45
 
